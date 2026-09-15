@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "6a5ad46a53d5b23c",
+    "id": "9053279cb6ceee2f",
     "type": "split",
     "children": [
       {
-        "id": "0cd244855932ca84",
+        "id": "a336e705cf43a2f3",
         "type": "tabs",
         "children": [
           {
-            "id": "fad1cc26a5839f77",
+            "id": "856cb131c6de0172",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -23,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "9e487cbed8fee584",
+    "id": "32a1abfcd37dfa4a",
     "type": "split",
     "children": [
       {
-        "id": "2f8b242e82768110",
+        "id": "0198c3c8e08e3634",
         "type": "tabs",
         "children": [
           {
-            "id": "2410d9af2c0a865c",
+            "id": "fb9c7229e0b71a99",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -46,7 +46,7 @@
             }
           },
           {
-            "id": "c873c625400d3535",
+            "id": "0e769ef0f959bfed",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -63,14 +63,11 @@
             }
           },
           {
-            "id": "0651de8d0fa0c8ae",
+            "id": "6992c612a2f11dd4",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {
-                "showSearch": false,
-                "searchQuery": ""
-              },
+              "state": {},
               "icon": "lucide-bookmark",
               "title": "书签"
             }
@@ -79,22 +76,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 228.75799560546875
   },
   "right": {
-    "id": "1c8c41634c3cfcf7",
+    "id": "cb2b581768bc1920",
     "type": "split",
     "children": [
       {
-        "id": "17d7bb31ddffffa1",
+        "id": "dff63bbd85ba6d04",
         "type": "tabs",
         "children": [
           {
-            "id": "1bac97c99a49086d",
+            "id": "f9abb66eecc76919",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "项目报（审）价/01-系统与软件工程功能规模测量 NESMA 方法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,67 +102,72 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "01-系统与软件工程功能规模测量 NESMA 方法 的反向链接列表"
             }
           },
           {
-            "id": "6fd89a3248fdc2f5",
+            "id": "37b53b2ad73d822d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "项目报（审）价/01-系统与软件工程功能规模测量 NESMA 方法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "01-系统与软件工程功能规模测量 NESMA 方法 的出链列表"
             }
           },
           {
-            "id": "cd1d44af76af1cc8",
+            "id": "fa6cd6c946fd60dd",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
+                "useHierarchy": true
               },
               "icon": "lucide-tags",
               "title": "标签"
             }
           },
           {
-            "id": "ae9ffe4d31841611",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "添加笔记属性"
-            }
-          },
-          {
-            "id": "d1a65297e42116b9",
+            "id": "6321b5f5e8129b65",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "file": "项目报（审）价/01-系统与软件工程功能规模测量 NESMA 方法.md"
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "01-系统与软件工程功能规模测量 NESMA 方法 的大纲"
             }
           },
           {
-            "id": "a8e5049ac1381008",
+            "id": "42eae136b239ebd0",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {
+                "tabWorkspace": {
+                  "version": 1,
+                  "openTabs": [
+                    {
+                      "tabId": "tab-1789477280621-zlsf51r",
+                      "conversationId": null,
+                      "draftModel": "opus"
+                    }
+                  ],
+                  "activeTabId": "tab-1789477280621-zlsf51r"
+                }
+              },
+              "icon": "bot",
+              "title": "Claudian"
+            }
+          },
+          {
+            "id": "24cf736dc54bdd02",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -178,44 +181,70 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 402.094970703125
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:新建数据库": false,
+      "obsidian42-brat:BRAT": false,
+      "realclaudian:Open Claudian": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a8e5049ac1381008",
+  "active": "42eae136b239ebd0",
   "lastOpenFiles": [
+    "其他/01-个人信息.md",
+    "研发技术学习笔记/数据库学习笔记/MySQL/01-MySQL 数据库安装.md",
+    "项目报（审）价/01-系统与软件工程功能规模测量 NESMA 方法.md",
+    "其他/临时笔记.md",
+    "AI 学习笔记/Claude Code/01-Claude Code 的安装部署.md",
+    "未命名.canvas",
+    "临时/Claude/claude.md",
+    "临时/未命名.md",
+    "临时/Claude/08.png",
+    "临时/Claude/11.png",
+    "临时/Claude/10.png",
+    "临时/Claude/09.png",
+    "临时/Claude/07.png",
+    "临时/Claude/06.png",
+    "临时/Claude/05.png",
+    "临时/Claude/04.png",
+    "AI 学习笔记/Claude Code/02-Claude + Obsidian 搭建本地知识库.md",
+    "AI 学习笔记/Claude Code/images/02/10.png",
+    "AI 学习笔记/Claude Code/images/02/09.png",
+    "AI 学习笔记/Claude Code/images/02",
+    "临时/Claude/知识库临时笔记.md",
+    "临时/Claude",
+    "临时/images",
+    "其他/课程资料/ai-guide-main/OpenClaw 保姆级教程/01 OpenClaw 是什么.md",
+    "其他/课程资料/ai-guide-main/OpenClaw 保姆级教程/00 OpenClaw 保姆级教程导读.md",
+    "研发技术学习笔记/开发工具学习笔记/Git学习笔记/03-码云代码托管中心.md",
+    "研发技术学习笔记/开发工具学习笔记/Git学习笔记/02-Git 命令行操作.md",
+    "研发技术学习笔记/开发工具学习笔记/Git学习笔记/01-基础知识.md",
+    "研发技术学习笔记/开发工具学习笔记",
     "未命名.base",
-    "Ai 学习笔记/工具使用学习笔记/Git学习笔记/images/03/42.png",
-    "Ai 学习笔记/工具使用学习笔记/Git学习笔记/images/03/46.png",
-    "Ai 学习笔记/工具使用学习笔记/Git学习笔记/images/03/45.png",
-    "Ai 学习笔记/工具使用学习笔记/Git学习笔记/images/03/44.png",
-    "Ai 学习笔记/工具使用学习笔记/Git学习笔记/images/03/43.png",
-    "Ai 学习笔记/工具使用学习笔记/Git学习笔记/images/03/41.png",
-    "Ai 学习笔记/工具使用学习笔记/Git学习笔记/images/03/40.png",
-    "Ai 学习笔记/工具使用学习笔记/Git学习笔记/images/03/39.png",
-    "Ai 学习笔记/工具使用学习笔记/Git学习笔记/images/03/38.png",
-    "Ai 学习笔记/工具使用学习笔记/Git学习笔记/images/03/37.png",
-    "Ai 学习笔记/工具使用学习笔记/Git学习笔记/images/03",
-    "Ai 学习笔记/工具使用学习笔记/Git学习笔记/images/02",
-    "Ai 学习笔记/工具使用学习笔记/Git学习笔记/images/01",
-    "Ai 学习笔记/工具使用学习笔记/Git学习笔记/images",
-    "Ai 学习笔记/工具使用学习笔记/Git学习笔记/03-码云代码托管中心.md",
-    "Ai 学习笔记/工具使用学习笔记/Git学习笔记/02-Git 命令行操作.md",
-    "Ai 学习笔记/工具使用学习笔记/Git学习笔记/01-基础知识.md",
-    "Ai 学习笔记/工具使用学习笔记/Git学习笔记",
-    "Ai 学习笔记/工具使用学习笔记",
-    "Ai 学习笔记/Python 基础知识学习笔记",
-    "未命名.md",
-    "touch.gitignore"
+    "2026-08-10.md",
+    "研发技术学习笔记",
+    "临时/Web 开发学习笔记/部署学习笔记/02-系统部署笔记.md",
+    "其他/临时.md",
+    "临时/AI 学习笔记/Python 学习笔记/Python 基础知识/19-进程与线程和网络编程.md",
+    "临时/Notes_back2/Notes_temp/Notes1/Note1/Knowledges/Notes/开发学习笔记/Python 学习笔记/其他.md",
+    "临时/Notes_back2/Notes_temp/Notes1/AI学习笔记/Python 学习笔记/Python 基础知识/19-进程与线程和网络编程.md",
+    "临时/AI 学习笔记/FastAPI备份/备份3/FastAPI 基础入门.md",
+    "临时/Notes_back2/Notes_temp/Notes1/数据库学习笔记/02-MySQL 快速入门.md",
+    "临时/Notes_back2/Notes_temp/AI 学习笔记/未命名.md",
+    "临时/Notes_back1/conda使用指南/尚硅谷-conda使用指南.md",
+    "临时/Notes_back1/AI 学习笔记/编程语言基础学习笔记/Python 语言学习笔记/00-Python 开发环境.md",
+    "临时/Notes_21/AI 学习笔记/工具学习笔记/Dify 学习笔记/01-Dify 本地部署.md",
+    "其他/课程资料",
+    "其他",
+    "研发技术学习笔记/数据库学习笔记/MySQL/images/01",
+    "研发技术学习笔记/数据库学习笔记/MySQL/images"
   ]
 }
