@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "6a5ad46a53d5b23c",
+    "type": "split",
+    "children": [
+      {
+        "id": "0cd244855932ca84",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fad1cc26a5839f77",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9e487cbed8fee584",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f8b242e82768110",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2410d9af2c0a865c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "c873c625400d3535",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "0651de8d0fa0c8ae",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1c8c41634c3cfcf7",
+    "type": "split",
+    "children": [
+      {
+        "id": "17d7bb31ddffffa1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1bac97c99a49086d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "6fd89a3248fdc2f5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "cd1d44af76af1cc8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "ae9ffe4d31841611",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "d1a65297e42116b9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "a8e5049ac1381008",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "a8e5049ac1381008",
+  "lastOpenFiles": [
+    "未命名.base",
+    "Ai 学习笔记/工具使用学习笔记/Git学习笔记/images/03/42.png",
+    "Ai 学习笔记/工具使用学习笔记/Git学习笔记/images/03/46.png",
+    "Ai 学习笔记/工具使用学习笔记/Git学习笔记/images/03/45.png",
+    "Ai 学习笔记/工具使用学习笔记/Git学习笔记/images/03/44.png",
+    "Ai 学习笔记/工具使用学习笔记/Git学习笔记/images/03/43.png",
+    "Ai 学习笔记/工具使用学习笔记/Git学习笔记/images/03/41.png",
+    "Ai 学习笔记/工具使用学习笔记/Git学习笔记/images/03/40.png",
+    "Ai 学习笔记/工具使用学习笔记/Git学习笔记/images/03/39.png",
+    "Ai 学习笔记/工具使用学习笔记/Git学习笔记/images/03/38.png",
+    "Ai 学习笔记/工具使用学习笔记/Git学习笔记/images/03/37.png",
+    "Ai 学习笔记/工具使用学习笔记/Git学习笔记/images/03",
+    "Ai 学习笔记/工具使用学习笔记/Git学习笔记/images/02",
+    "Ai 学习笔记/工具使用学习笔记/Git学习笔记/images/01",
+    "Ai 学习笔记/工具使用学习笔记/Git学习笔记/images",
+    "Ai 学习笔记/工具使用学习笔记/Git学习笔记/03-码云代码托管中心.md",
+    "Ai 学习笔记/工具使用学习笔记/Git学习笔记/02-Git 命令行操作.md",
+    "Ai 学习笔记/工具使用学习笔记/Git学习笔记/01-基础知识.md",
+    "Ai 学习笔记/工具使用学习笔记/Git学习笔记",
+    "Ai 学习笔记/工具使用学习笔记",
+    "Ai 学习笔记/Python 基础知识学习笔记",
+    "未命名.md",
+    "touch.gitignore"
+  ]
+}
